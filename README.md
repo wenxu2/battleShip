@@ -1,4 +1,4 @@
-# battleShip
+# Battle Ship Game 
 Battleship is a classic Milton-Bradley game. This project allow the you to choose to be player A or B. And then you can 
 keep hitting "Enter" on the keyabord until game is over. 
 
